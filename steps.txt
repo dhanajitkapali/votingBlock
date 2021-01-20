@@ -1,0 +1,14 @@
+1)install truffle  -> npm install -g truffle (globally)
+
+2)install ganache cli -> npm install -g ganache-cli
+
+3)paste the .sol code inside contracts file
+
+4)setup the deployment file inside the migrations file
+
+5)start the test net of ganache -> ganache-cli -m &#39;candy maple cake sugar pudding cream honey rich smooth crumble sweet
+  treat&#39; --networkId 100 -a 10 --gasPrice 1 --gasLimit 8000000
+	->ganache-cli
+
+6)migrate to current test net(default -port 8545) ->truffle migrate
+							->truffle migrate –reset
