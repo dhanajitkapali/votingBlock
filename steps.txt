@@ -11,4 +11,12 @@
 	->ganache-cli
 
 6)migrate to current test net(default -port 8545) ->truffle migrate
-							->truffle migrate –reset
+					->truffle migrate –reset
+
+
+How to run ->
+
+1) open Ganache , open required workspace 
+2) npm run dev
+3) connect metamask
+4) cast vote

@@ -1,0 +1,13 @@
+npm install
+
+truffle migrate --reset
+
+ npm run dev
+
+ http://localhost:3000
+
+http://localhost:7545
+
+b0e51faf5e733f54af130844130c6d554978f4a077da34959cd624176600205f
+
+1337 -> chain id
